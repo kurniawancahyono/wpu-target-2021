@@ -1,0 +1,11 @@
+WPU Target 2021
+Goals:
+Desember
+- Menyelesaikan pembelajaran fundamental required
+
+Januari
+- Mememulai pembelajaran HTML, CSS, dan Javascript Dasar
+- Mengikuti Training online course front end developer
+
+Februari
+- Mengikuti training online course Full stack developer 
