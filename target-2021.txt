@@ -8,4 +8,5 @@ Januari
 - Mengikuti Training online course front end developer
 
 Februari
-- Mengikuti training online course Full stack developer 
+- Mengikuti training online course Full stack developer
+- Mempelajari framework Bootstrap dan ReactJS
