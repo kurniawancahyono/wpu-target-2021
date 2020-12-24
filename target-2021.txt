@@ -6,7 +6,14 @@ Desember
 Januari
 - Mememulai pembelajaran HTML, CSS, dan Javascript Dasar
 - Mengikuti Training online course front end developer
+- Membuat 1 tampilan website
 
 Februari
 - Mengikuti training online course Full stack developer
 - Mempelajari framework Bootstrap dan ReactJS
+- Membuat 1 website (Dari fullstack developer course)
+
+Maret
+- Mendalami front end developer
+- Memperbagus tampilan website yang dibuat
+- Mengubah status LinkedIn menjadi Open To Work (Front End Developer)
